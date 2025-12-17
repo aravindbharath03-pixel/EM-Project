@@ -50,8 +50,8 @@ All files use UTC timestamps and are concatenated during preprocessing.
 
 ## Environment setup
 
-To reproduce the analysis locally (outside Google Colab), create a conda environment:
-
+To reproduce the analysis locally (outside Google Colab), create a conda environment: Conda Env create -f environment.yml
+conda activate EM-Project 
 Then run the scripts/notebooks using `python` or your preferred IDE. The environment includes:
 - pandas, numpy
 - matplotlib, seaborn
