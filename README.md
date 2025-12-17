@@ -17,11 +17,16 @@ The repository is organized into three main folders:
 └── results/
 
 
+
 Each folder corresponds to a distinct stage of the project workflow, from raw data ingestion to final analytical outputs.
 
 ---
 
 ## Data (`data/`)
+
+**Data sources:**  
+BGE hourly electricity demand was retrieved from PJM Data Miner: https://dataminer2.pjm.com/feed/hrl_load_metered  
+BWI meteorological observations were retrieved from the Iowa Environmental Mesonet (MD ASOS network): https://mesonet.agron.iastate.edu/request/download.phtml?network=MD_ASOS
 
 The `data` folder contains all raw observational datasets used in the analysis.
 
@@ -111,3 +116,9 @@ The analysis shows that electricity demand in the BGE service territory exhibits
 
 ## References
 All scientific context, methodology, and interpretation are documented in the accompanying AMS-style report and supported by peer-reviewed literature cited therein.
+
+---
+
+**Author:** Aravind Bharath  
+Center for Leadership Education  
+Johns Hopkins University 
