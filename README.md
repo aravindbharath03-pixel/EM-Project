@@ -52,6 +52,15 @@ All files use UTC timestamps and are concatenated during preprocessing.
 
 To reproduce the analysis locally (outside Google Colab), create a conda environment:
 
+Then run the scripts/notebooks using `python` or your preferred IDE. The environment includes:
+- pandas, numpy
+- matplotlib, seaborn
+- scipy
+- scikit-learn
+
+> Note: The scripts are written to run in Google Colab using the `files.upload()` widget for CSV input. To run locally, replace the `files.upload()` blocks with standard `pd.read_csv("path/to/file.csv")` calls, or upload the same CSVs into a Colab runtime.
+
+
 ## Analysis Scripts (`scripts/`)
 
 The `scripts` folder contains Jupyter notebooks implementing the full analytical workflow.
