@@ -1,4 +1,4 @@
-name: em-project
+name: EM-Project
 channels:
   - conda-forge
   - defaults
