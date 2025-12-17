@@ -48,6 +48,10 @@ All files use UTC timestamps and are concatenated during preprocessing.
 
 ---
 
+## Environment setup
+
+To reproduce the analysis locally (outside Google Colab), create a conda environment:
+
 ## Analysis Scripts (`scripts/`)
 
 The `scripts` folder contains Jupyter notebooks implementing the full analytical workflow.
