@@ -1,4 +1,4 @@
-# Electricity Demand Sensitivity to Heat Index in the Baltimore Region (2020–2025)
+# Quantifying the Relationship Between Electricity Demand and Heat Index in the Baltimore Region
 
 ## Project Overview
 This project examines how electricity demand in the Baltimore Gas and Electric (BGE) service territory responds to atmospheric heat stress, as measured by the heat index observed at Baltimore–Washington International Airport (BWI). Using hourly electricity demand and meteorological data from 1 November 2020 through 31 October 2025, the study quantifies the relationship between electricity demand and heat index across multiple years and evaluates whether this relationship has changed over time in a manner consistent with climate-driven warming.
